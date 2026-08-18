@@ -1,0 +1,13 @@
+# ==========================================
+# FOREX MARGIN & LEVERAGE CALCULATOR
+# ==========================================
+
+print("=" * 50)
+print("      FOREX MARGIN AND LEVERAGE CALCULATOR")
+print("=" * 50)
+
+# Inputs
+balance = float(input("Account balance ($): "))
+lot_size = float(input("Trade size (lots): "))
+price = float(input("Current market price: "))
+contract_size = 
